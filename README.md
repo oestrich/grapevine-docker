@@ -8,5 +8,5 @@ Use the build scripts to generate new base images. Make sure to update the tag i
 
 ```bash
 ./build-elixir.sh
-docker push grapevinehaus/elixir:1.10
+docker push grapevinehaus/elixir:1.10.0-1
 ```
